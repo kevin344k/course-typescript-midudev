@@ -1,0 +1,23 @@
+{
+   "subs":[
+    {
+        "nick":"Medigans",
+        "months":3,
+        "profileUrl":"https://support.discord.com/system/photos/360131058712/profile_image_364318069172_678183.jpg",
+        "description":"Medigans es mind-senior en Patreon"
+    },
+    {
+        "nick":"tictools",
+        "months":6,
+        "profileUrl":"https://support.discord.com/system/photos/360229283091/profile_image_363601809152_678183.jpg",
+        "description":"tictools era Profe!"
+    },
+    {
+        "nick":"Reddo",
+        "months":3,
+        "profileUrl":"https://support.discord.com/system/photos/360249084211/profile_image_381130371352_678183.jpg",
+        "description":"Redo! Es hacer dos veces"
+    }
+    
+]
+}
